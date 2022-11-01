@@ -1,6 +1,6 @@
-name: GitHub-Profile-3D-Contrib
+name: GitHub-Profile-3D-Contrib-2022
 description: Generate profile 3D Contributions
-author: yoshi389111
+author: xgqfrms
 
 runs:
   using: 'node16'
